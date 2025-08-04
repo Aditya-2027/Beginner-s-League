@@ -1,3 +1,5 @@
+Created a code to generate random numbers and stored it in a list
+
 What did you learn while making this app?
 - I revised through the basic modules I learnt in high school
 
