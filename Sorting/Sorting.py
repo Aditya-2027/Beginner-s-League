@@ -79,15 +79,14 @@ def main():
 
 main()
 
-'''This program sorts strings and numbers based on user choice.
-    It provides options to sort 
-        1. strings 
-            a. alphabetically
-            b. reverse alphabetically
-            c. by length
-                i. ascending
-                ii. descending order,
-        2. numbers
-            a. ascending
-            b. descending order.
-'''
+# This program sorts strings and numbers based on user choice.
+# It provides options to sort 
+#     1. strings 
+#         a. alphabetically
+#         b. reverse alphabetically
+#         c. by length
+#             i. ascending
+#             ii. descending order,
+#     2. numbers
+#         a. ascending
+#         b. descending order.
